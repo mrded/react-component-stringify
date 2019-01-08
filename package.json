@@ -1,0 +1,36 @@
+{
+  "name": "react-component-stringify",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --env=jsdom"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrded/react-component-stringify.git"
+  },
+  "keywords": [
+    "react",
+    "component",
+    "stringify",
+    "raw",
+    "serialize",
+    "string"
+  ],
+  "author": "Dmitry Demenchuk @mrded",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrded/react-component-stringify/issues"
+  },
+  "homepage": "https://github.com/mrded/react-component-stringify#readme",
+  "peerDependencies": {
+    "react": "^16.4.1"
+  },
+  "dependencies": {
+    "xmlbuilder": "^10.1.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
